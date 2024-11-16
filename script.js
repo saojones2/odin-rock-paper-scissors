@@ -15,4 +15,8 @@ function getComputerChoice () {
     return console.log(CompChoice)
 }
 
-getComputerChoice()
+function getHumanChoice () {
+    
+}
+
+let computerChoice = getComputerChoice()
